@@ -2,28 +2,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-1.9.0-blue.svg" alt="Kotlin Version">
   <img src="https://img.shields.io/badge/Platform-Android-green.svg" alt="Platform">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
   <img src="https://img.shields.io/badge/Jetpack%20Compose-Latest-purple.svg" alt="Jetpack Compose">
-</p>
-<p align="center">
-  <img src="/api/placeholder/800/400" alt="Project Banner">
-</p>
+
 ✨ Features
 <div align="center">
 FeatureDescription🎨 Material Design 3Latest Material Design components and styling📱 NavigationModal drawer with custom sections⏰ Time SelectionInteractive time picker with dual modes🔘 ButtonsComplete collection of Material button types🎴 CardsVarious card styles and implementations🏷️ ChipsInteractive chip components📊 ProgressLinear and circular indicators
 </div>
-🚀 Implementation
-kotlinCopyclass MainActivity : ComponentActivity() {
-    @Composable
-    fun MainScreen() {
-        ModalNavigationDrawer(
-            drawerContent = { DrawerContent() },
-            drawerState = drawerState
-        ) {
-            // Your app content here
-        }
-    }
-}
+
 🛠️ Components
 <details>
 <summary>Navigation Components</summary>
@@ -78,7 +63,20 @@ FilledTonalNavigation("CardViews") {
 }
 🌟 Screenshots
 <div align="center">
-  <img src="/api/placeholder/200/400" alt="Screenshot 1" width="200px">
-  <img src="/api/placeholder/200/400" alt="Screenshot 2" width="200px">
-  <img src="/api/placeholder/200/400" alt="Screenshot 3" width="200px">
+  <img src="screenshots/10.jpg" alt="Navigation Drawer" width="250">
+  <img src="screenshots/9.jpg" alt="Time Picker" width="250">
+  <img src="screenshots/8.jpg" alt="Time Picker" width="250">
+</div>
+<div align="center">
+  <img src="screenshots/7.jpg" alt="Textviews" width="250">
+  <img src="screenshots/6.jpg" alt="Buttons" width="250">
+  <img src="screenshots/5.jpg" alt="Cards" width="250">
+</div>
+<div align="center">
+  <img src="screenshots/4.jpg" alt="Chips" width="250">
+  <img src="screenshots/3.jpg" alt="Indicators" width="250">
+  <img src="screenshots/2.jpg" alt="Pull to refresh" width="250">
+</div>
+<div align="center">
+  <img src="screenshots/1.jpg" alt="Dialog" width="250">
 </div>
