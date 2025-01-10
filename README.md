@@ -50,17 +50,8 @@ gradleCopydependencies {
 Clone the repository:
 
 bashCopygit clone https://github.com/yourusername/material-design-components.git
-🎯 Usage
-Navigate through different components:
-kotlinCopy// Button Components
-FilledTonalNavigation("Buttons") { 
-    Navigation(ButtonsActivity::class.java) 
-}
 
-// Card Components
-FilledTonalNavigation("CardViews") { 
-    Navigation(CardViewActivity::class.java) 
-}
+<br>
 🌟 Screenshots
 <div align="center">
   <img src="screenshots/10.jpg" alt="Navigation Drawer" width="250">
