@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Jetpack</string>
+    <string name="title_activity_text_views">TextViewsActivity</string>
+    <string name="title_activity_buttons">ButtonsActivity</string>
+    <string name="title_activity_card_view">CardViewActivity</string>
+    <string name="title_activity_chips">ChipsActivity</string>
+    <string name="hello_android">Hello Android!</string>
+    <string name="when_you_land_on_a_sample_web_page_or_open_an_email_template_and_see_content_beginning_with_lorem_ipsum_n_the_page_creator_placed_that_apparent_gibberish_there_on_purpose_n_page_layouts_look_better_with_something_in_each_section_n_web_page_designers_content_writers_and_layout_artists_use_lorem_ipsum_also_known_as_placeholder_copy_nto_distinguish_which_areas_on_a_page_will_hold_advertisements_editorials_and_filler_before_the_final_written_content_and_website_designs_receive_client_approval_n_fun_lorem_ipsum_text_may_appear_in_any_size_and_font_to_simulate_everything_you_create_for_your_campaigns">When you land on a sample web page or open an email template and see content beginning with lorem ipsum, the page creator placed that apparent gibberish there on purpose.Page layouts look better with something in each section.Web page designers, content writers, and layout artists use lorem ipsum, also known as placeholder copy, to distinguish which areas on a page will hold advertisements, editorials, and filler before the final written content and website designs receive client approval.Fun Lorem Ipsum text may appear in any size and font to simulate everything you create for your campaigns.</string>
+    <string name="hello_jetpack_compose_there_are_many_variations_of_passages_of_lorem_ipsum_available">Hello Jetpack Compose! There are many variations of passages of Lorem Ipsum available</string>
+    <string name="title_activity_indicators">IndicatorsActivity</string>
+    <string name="title_activity_pull_to_refresh">PullToRefreshActivity</string>
+</resources>
