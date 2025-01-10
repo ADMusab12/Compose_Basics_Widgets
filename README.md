@@ -6,7 +6,21 @@
 
 ✨ Features
 <div align="center">
-FeatureDescription🎨 Material Design 3Latest Material Design components and styling📱 NavigationModal drawer with custom sections⏰ Time SelectionInteractive time picker with dual modes🔘 ButtonsComplete collection of Material button types🎴 CardsVarious card styles and implementations🏷️ ChipsInteractive chip components📊 ProgressLinear and circular indicators
+FeatureDescription🎨 
+  <br>
+  Material Design 3Latest Material Design components and styling
+  <br>
+  📱 NavigationModal drawer with custom sections
+  <br>
+  ⏰ Time SelectionInteractive time picker with dual modes
+  <br>
+  🔘 ButtonsComplete collection of Material button types
+  <br>
+  🎴 CardsVarious card styles and implementations
+  <br>
+  🏷️ ChipsInteractive chip components
+  <br>
+  📊 ProgressLinear and circular indicators
 </div>
 
 🛠️ Components
