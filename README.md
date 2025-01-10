@@ -56,8 +56,11 @@ Floating Action Buttons
 Add the dependencies to your project:
 
 gradleCopydependencies {
+<br>
     implementation 'androidx.activity:activity-compose:1.8.2'
+    <br>
     implementation 'androidx.compose.material3:material3:1.1.2'
+    <br>
     implementation 'androidx.compose.ui:ui:1.5.4'
 }
 
