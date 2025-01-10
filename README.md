@@ -47,10 +47,6 @@ gradleCopydependencies {
     implementation 'androidx.compose.ui:ui:1.5.4'
 }
 
-Clone the repository:
-
-bashCopygit clone https://github.com/yourusername/material-design-components.git
-
 <br>
 🌟 Screenshots
 <div align="center">
